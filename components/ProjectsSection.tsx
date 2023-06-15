@@ -8,7 +8,7 @@ const projects = [
     {
         name: "Trail Ahead",
         description:
-            "Trail Ahead is a full-stack web application created with the goal of helping hikers find hikers. Users are able to view and join hikes planned by other users, or create their own.",
+            "Trail Ahead is a full-stack web application created with the goal of helping hikers find hikers. Users are able to view and join hikes planned by other users, or create their own. We used the Kanban method of project management to create user stories and drive our workflow. Features were developed following the principles of Test-Driven Development as we went through multiple cycles of red-green-refator. Created using React.",
         image: "/trail_ahead.png",
         github: "https://github.com/DQuaya/Trail-Ahead-Front-End",
         link: "https://trail-ahead.onrender.com/",
@@ -16,7 +16,7 @@ const projects = [
     {
         name: "The Brew Buddy",
         description:
-            "The Brew Buddy is the ritualistic coffee drinker's morning companion. The Buddy feature provides the indecisive or adventurous coffee drinker with a way to explore new recipes for brewing coffee, specifically using an AeroPress brewing device. A randomizer adjusts variables in each stage of the brewing process so that users can enjoy a different coffee recipe with every cup.",
+            "The Brew Buddy is the ritualistic coffee drinker's morning companion. The Buddy feature provides the indecisive or adventurous coffee drinker with a way to explore new recipes for brewing coffee, specifically using an AeroPress brewing device. A randomizer adjusts variables in each stage of the brewing process so that users can enjoy a different coffee recipe with every cup. Created using React.",
         image: "/the_brew_buddy.png",
         github: "https://github.com/kevncrypting/the-brew-buddy",
         link: "https://kevncrypting.github.io/the-brew-buddy/",
