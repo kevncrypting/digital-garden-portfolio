@@ -8,7 +8,7 @@ const projects = [
     {
         name: "Trail Ahead",
         description:
-            "Trail Ahead is a full-stack web application created with the goal of helping hikers find hikers. Users are able to view and join hikes planned by other users, or create their own. We used the Kanban method of project management to create user stories and drive our workflow. Features were developed following the principles of Test-Driven Development as we went through multiple cycles of red-green-refator. Created using React.",
+            "Trail Ahead is a full-stack web application created with the goal of helping hikers find hikers. Users are able to view and join hikes planned by other users, or create their own. We used the Kanban method of project management to create user stories and drive our workflow. Features were developed following the principles of Test-Driven Development as we went through multiple cycles of red-green-refactor. Created using React.",
         image: "/trail_ahead.png",
         github: "https://github.com/DQuaya/Trail-Ahead-Front-End",
         link: "https://trail-ahead.onrender.com/",
